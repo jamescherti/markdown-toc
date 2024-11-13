@@ -1,4 +1,4 @@
-;;; markdown-toc.el --- A simple TOC generator for markdown file
+;;; markdown-toc.el --- A simple TOC generator for markdown file  -*- lexical-binding: t; -*-
 ;; Copyright (C) 2014-2020 Antoine R. Dumont (@ardumont)
 
 ;; Author: Antoine R. Dumont (@ardumont)
